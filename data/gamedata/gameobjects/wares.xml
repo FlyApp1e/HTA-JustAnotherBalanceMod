@@ -8,7 +8,7 @@ $Id: Wares.xml,v 1.22 2005/11/28 07:43:58 anton Exp $
 	<Prototype
 		Class		= "Ware"
 		Name		= "potato"
-		Price	= "100"
+		Price	= "90"
 		Durability	= "100"
 		PriceDispersion      = "10"
 		ModelFile	= "potatoe"
@@ -17,7 +17,7 @@ $Id: Wares.xml,v 1.22 2005/11/28 07:43:58 anton Exp $
 	<Prototype
 		Class		= "Ware"
 		Name		= "scrap_metal"
-		Price	= "250"
+		Price	= "210"
 		Durability	= "100"
 		PriceDispersion      = "7"
 		ModelFile	= "lom"
@@ -26,7 +26,7 @@ $Id: Wares.xml,v 1.22 2005/11/28 07:43:58 anton Exp $
 	<Prototype
 		Class		= "Ware"
 		Name		= "firewood"
-		Price	= "140"
+		Price	= "130"
 		Durability	= "90"
 		PriceDispersion      = "10"
 		ModelFile	= "koroldrov"
@@ -35,7 +35,7 @@ $Id: Wares.xml,v 1.22 2005/11/28 07:43:58 anton Exp $
 	<Prototype
 		Class		= "Ware"
 		Name		= "oil"
-		Price	= "550"
+		Price	= "420"
 		Durability	= "70"
 		PriceDispersion      = "10"
 		ModelFile	= "back_exp"
@@ -53,7 +53,7 @@ $Id: Wares.xml,v 1.22 2005/11/28 07:43:58 anton Exp $
 	<Prototype
 		Class		= "Ware"
 		Name		= "bottle"
-		Price	= "4250"
+		Price	= "930"
 		Durability	= "10"
 		PriceDispersion      = "7"
 		ModelFile	= "bottles"
@@ -62,7 +62,7 @@ $Id: Wares.xml,v 1.22 2005/11/28 07:43:58 anton Exp $
 	<Prototype
 		Class		= "Ware"
 		Name		= "fuel"
-		Price	= "1150"
+		Price	= "950"
 		Durability	= "50"
 		PriceDispersion      = "7"
 		ModelFile	= "kanistr"
@@ -72,7 +72,7 @@ $Id: Wares.xml,v 1.22 2005/11/28 07:43:58 anton Exp $
 	<Prototype
 		Class		= "Ware"
 		Name		= "machinery"
-		Price	= "2200"
+		Price	= "1600"
 		Durability	= "30"
 		PriceDispersion      = "5"
 		ModelFile	= "rabochee_oborudovanie"
@@ -81,7 +81,7 @@ $Id: Wares.xml,v 1.22 2005/11/28 07:43:58 anton Exp $
 	<Prototype
 		Class		= "Ware"
 		Name		= "tobacco"
-		Price	= "8100"
+		Price	= "1600"
 		Durability	= "70"
 		PriceDispersion      = "5"
 		ModelFile	= "tobacco"
@@ -90,7 +90,7 @@ $Id: Wares.xml,v 1.22 2005/11/28 07:43:58 anton Exp $
 	<Prototype
 		Class		= "Ware"
 		Name		= "book"
-		Price	= "15500"
+		Price	= "8200"
 		Durability	= "90"
 		PriceDispersion      = "5"
 		ModelFile	= "books"
