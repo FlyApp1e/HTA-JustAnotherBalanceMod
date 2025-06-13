@@ -24,7 +24,7 @@ $Id: SmallGuns.xml,v 1.58 2005/11/28 07:43:57 anton Exp $
 		RecoilForce		= "2"		
 
 		CanBeUsedInAutogenerating  =  "0"
-		Price			= "8600"
+		Price			= "25000"
 		
 		ChargeSize     		= "1"
 		RechargingTime 		= "10"
@@ -57,7 +57,7 @@ $Id: SmallGuns.xml,v 1.58 2005/11/28 07:43:57 anton Exp $
 		RecoilForce		= "2"		
 
 		CanBeUsedInAutogenerating  =  "0"
-		Price			= "3670"
+		Price			= "5200"
 		
 		ChargeSize     		= "20"
 		RechargingTime 		= "8"
@@ -116,7 +116,7 @@ $Id: SmallGuns.xml,v 1.58 2005/11/28 07:43:57 anton Exp $
 		RecoilForce		= "2"		
 
 		CanBeUsedInAutogenerating  =  "0"
-		Price			= "1780"
+		Price			= "2620"
 		
 
 		ChargeSize     		= "1"
@@ -237,7 +237,7 @@ $Id: SmallGuns.xml,v 1.58 2005/11/28 07:43:57 anton Exp $
 		FiringRange		= "500"
 		RecoilForce		= "2"
                 FiringType		= "MachineGun"
-		Price			= "280"
+		Price			= "210"
 		
 		Decal				= "DC_SML_MACHINEGUN"
 
@@ -295,7 +295,7 @@ $Id: SmallGuns.xml,v 1.58 2005/11/28 07:43:57 anton Exp $
 		FiringRange		= "1000"
 		RecoilForce		= "1"
 		FiringType		= "MachineGun"
-		Price			= "1670"
+		Price			= "1970"
 		
 		Decal				= "DC_SML_MACHINEGUN"
 
@@ -351,7 +351,7 @@ $Id: SmallGuns.xml,v 1.58 2005/11/28 07:43:57 anton Exp $
 		FiringRange		= "800"
 		RecoilForce		= "0"
                 FiringType		= "Laser"
-		Price			= "26600"
+		Price			= "33325"
 		
 		Decal				= "DC_LASER"
 
@@ -379,7 +379,7 @@ $Id: SmallGuns.xml,v 1.58 2005/11/28 07:43:57 anton Exp $
 		FiringRange		= "200"
 		RecoilForce		= "3"
                 FiringType		= "ShotGun"
-		Price			= "3450"
+		Price			= "3850"
 		
 		Decal				= "DC_SML_MACHINEGUN"
 
@@ -405,7 +405,7 @@ $Id: SmallGuns.xml,v 1.58 2005/11/28 07:43:57 anton Exp $
 		FiringRange		= "2000"
 		RecoilForce		= "1"
                 FiringType		= "Plasma"
-		Price			= "25500"
+		Price			= "32300"
 				
 		Decal				= "DC_LASER"
 

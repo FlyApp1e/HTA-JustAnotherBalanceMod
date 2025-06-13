@@ -35,10 +35,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "FelixsGangSmallGenerator"
 		DesiredCount 	= "1-2"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="ScoutEnemySpawn"		
 			WaresPrototypes="potato"
@@ -96,10 +96,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "FelixsGangGenerator"
 		DesiredCount 				= "1-2"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="ScoutEnemySpawn"		
 			WaresPrototypes="potato"
@@ -156,10 +156,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name			= "r1m2BanditsGangGenerator"
 		DesiredCount 				= "1-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="ScoutEnemySpawn Sml2EnemySpawn"		
 			WaresPrototypes="firewood"
@@ -216,10 +216,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name			= "r1m3BanditsGangGenerator"
 		DesiredCount 				= "1-3"
-		partOfSchwartzForCabin 			= "0.20"  
-		partOfSchwartzForBasket 		= "0.20"
-		partOfSchwartzForGuns 			= "0.30"
-		partOfSchwartzForWares 			= "0.25" >
+		partOfSchwartzForCabin 			= "0.25"  
+		partOfSchwartzForBasket 		= "0.25"
+		partOfSchwartzForGuns 			= "0.40"
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="ScoutEnemySpawn ScoutEnemySpawn"		
 			WaresPrototypes="scrap_metal firewood"
@@ -277,10 +277,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name			= "r1m3BrodiagaGangGenerator"
                 DesiredCount 				= "1-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="ScoutEnemySpawn ScoutEnemySpawn Sml4EnemySpawn"		
 			WaresPrototypes="scrap_metal"
@@ -329,8 +329,8 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "r4m1Razboyniki"
                 DesiredCount 				= "2-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
 		partOfSchwartzForWares 			= "0.05" >
 		<Description 
@@ -389,10 +389,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "OracleDefGenerator"
 		DesiredCount 				= "2-2"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="HunterEnemySpawn ScoutEnemySpawn ScoutEnemySpawn"		
 			WaresPrototypes="book tobacco"
@@ -427,10 +427,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "ARGangGenerator"
 		DesiredCount 				= "2-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="HunterEnemySpawn FighterEnemySpawn "		
 			WaresPrototypes="fuel machinery"
@@ -470,10 +470,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "SNGGangGenerator"
 		DesiredCount 				= "2-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="HunterEnemySpawn ScoutEnemySpawn ScoutEnemySpawn"		
 			WaresPrototypes="fuel machinery"
@@ -544,8 +544,8 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "r3m1_RobotGenerator"
                 DesiredCount 				= "2-2"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.24"
 		partOfSchwartzForWares 			= "0.35" >
 		<Description 
@@ -578,10 +578,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "r1m4_TraidersGenerator"
                 DesiredCount 				= "2-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="FighterEnemySpawn ScoutEnemySpawn"		
 			WaresPrototypes="fuel oil"
@@ -635,10 +635,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "r1m4_FishersGenerator"
                 DesiredCount 				= "2-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="FighterEnemySpawn ScoutEnemySpawn"		
 			WaresPrototypes="fuel oil"
@@ -691,10 +691,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "RaboynikGenerator"
                 DesiredCount 				= "2-2"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="FighterEnemySpawn HunterEnemySpawn"		
 			WaresPrototypes="bottle tobacco"
@@ -747,10 +747,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "DruidGenerator"
                 DesiredCount 				= "2-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="FighterEnemySpawn HunterEnemySpawn"		
 			WaresPrototypes="bottle tobacco"
@@ -803,10 +803,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "MechDruidGenerator"
                 DesiredCount 				= "2-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		
 		<Description 
 			VehiclesPrototypes	="HunterEnemySpawn FighterEnemySpawn"		
@@ -864,8 +864,8 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "Robots32Generator"
                 DesiredCount 				= "2-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.24"
 		partOfSchwartzForWares 			= "0.35" >
 		
@@ -890,10 +890,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "OracleDefendersGenerator"
 		DesiredCount 				= "1-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="HunterEnemySpawn FighterEnemySpawn"		
 			WaresPrototypes="bottle tobacco"
@@ -944,10 +944,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "r3_BanditesGenerator"
 		DesiredCount 				= "1-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="HunterEnemySpawn FighterEnemySpawn"		
 			WaresPrototypes="bottle tobacco"
@@ -999,10 +999,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "GadadGenerator"
                 DesiredCount 				= "1-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="DozerEnemySpawn CruiserEnemySpawn"		
 			WaresPrototypes="electronics book"
@@ -1058,10 +1058,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "KazifGenerator"
                 DesiredCount 				= "2-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="ScoutEnemySpawn FighterEnemySpawn HunterEnemySpawn"		
 			WaresPrototypes="electronics book"
@@ -1109,10 +1109,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "KefGenerator"
                 DesiredCount 				= "2-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="FighterEnemySpawn CruiserEnemySpawn"		
 			WaresPrototypes="electronics book"
@@ -1159,10 +1159,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "r4_BanditesGenerator"
                 DesiredCount 				= "2-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="FighterEnemySpawn CruiserEnemySpawn"		
 			WaresPrototypes="electronics book"
@@ -1215,10 +1215,10 @@ $Id: Infection.xml,v 1.48 2005/11/28 07:43:57 anton Exp $
 		Class 		= "VehiclesGenerator"
 		Name		= "r4m2_MilitaryGenerator"
                 DesiredCount 				= "2-3"
-		partOfSchwartzForCabin 			= "0.15"  
-		partOfSchwartzForBasket 		= "0.15"
+		partOfSchwartzForCabin 			= "0.20"  
+		partOfSchwartzForBasket 		= "0.20"
 		partOfSchwartzForGuns 			= "0.54"
-		partOfSchwartzForWares 			= "0.20" >
+		partOfSchwartzForWares 			= "0.10" >
 		<Description 
 			VehiclesPrototypes	="FighterEnemySpawn Tank01"		
 			WaresPrototypes="electronics"

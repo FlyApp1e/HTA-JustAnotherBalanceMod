@@ -30,7 +30,7 @@ $Id: BigGuns.xml,v 1.43 2005/11/28 07:43:56 anton Exp $
 		Durability		= "70"
 		
 		BlastWavePrototype      = "smallBlastWave"
-		Price			= "20400"
+		Price			= "30280"
 		FiringType		= "Cannon"
 		/>
 
@@ -59,7 +59,7 @@ $Id: BigGuns.xml,v 1.43 2005/11/28 07:43:56 anton Exp $
 
 		Decal				= "DC_BIG_MACHINEGUN"
 
-		Price			= "5520"
+		Price			= "8520"
                 FiringType		= "MachineGun"
 		Durability			= "50"/>
 
@@ -85,7 +85,7 @@ $Id: BigGuns.xml,v 1.43 2005/11/28 07:43:56 anton Exp $
 
 		Decal				= "DC_BIG_MACHINEGUN"
 
-		Price			= "5630"
+		Price			= "8630"
                 FiringType		= "MachineGun"
 		Durability		= "30"/>
 
@@ -112,7 +112,7 @@ $Id: BigGuns.xml,v 1.43 2005/11/28 07:43:56 anton Exp $
 		ChargeSize     = "1"
 		RechargingTime = "4"
 
-		Price			= "17860"
+		Price			= "27860"
                 FiringType		= "ShotGun"
 		BlastWavePrototype      = "smallBlastWave"
 		Durability		= "200"/>
@@ -139,7 +139,7 @@ $Id: BigGuns.xml,v 1.43 2005/11/28 07:43:56 anton Exp $
 		ChargeSize     = "130"
 		RechargingTime = "6"
 
-		Price			= "6400"
+		Price			= "10400"
                 FiringType		= "MachineGun"
 		Durability		= "60"/>
 
@@ -165,7 +165,7 @@ $Id: BigGuns.xml,v 1.43 2005/11/28 07:43:56 anton Exp $
 		ChargeSize     = "80"
 		RechargingTime = "5"
 
-		Price			= "24580"
+		Price			= "41580"
                 FiringType		= "Cannon"
 		BlastWavePrototype      = "smallBlastWave_rainmetal"
 		Durability		= "100" />
@@ -192,7 +192,7 @@ $Id: BigGuns.xml,v 1.43 2005/11/28 07:43:56 anton Exp $
 
 		Decal				= "DC_LASER"
                 FiringType		= "Plasma"
-		Price			= "45100"
+		Price			= "52100"
 
 		Durability		= "250"/>
 	
@@ -219,7 +219,7 @@ $Id: BigGuns.xml,v 1.43 2005/11/28 07:43:56 anton Exp $
 		ChargeSize     		= "20"
 		RechargingTime 		= "3.5"
                 FiringType		= "Laser"
-		Price			= "51250"
+		Price			= "69250"
 
 		Durability		= "250"/>
 
@@ -251,7 +251,7 @@ $Id: BigGuns.xml,v 1.43 2005/11/28 07:43:56 anton Exp $
 
 		TurningSpeed		= "100"
                 FiringType		= "Artillery"
-		Price			= "13310"
+		Price			= "18310"
 
 		Durability		= "400"/>
 
@@ -280,7 +280,7 @@ $Id: BigGuns.xml,v 1.43 2005/11/28 07:43:56 anton Exp $
 		ChargeSize     = "18"
 		RechargingTime = "8"
 
-		Price			= "42000"
+		Price			= "53000"
         FiringType		= "Artillery"
 
 		TurningSpeed		= "100"

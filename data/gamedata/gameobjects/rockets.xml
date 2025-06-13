@@ -334,7 +334,7 @@ $Id: Rockets.xml,v 1.68 2005/11/28 07:43:57 anton Exp $
                 WithShellsPoolLimit     = "true"
 
                 CanBeUsedInAutogenerating  =  "0"
-                Price           = "9870" 
+                Price           = "18870" 
 
                 Durability                      = "300"/>
 
@@ -385,7 +385,7 @@ $Id: Rockets.xml,v 1.68 2005/11/28 07:43:57 anton Exp $
                 MaxCharges = "3"
 
                 CanBeUsedInAutogenerating  =  "0"
-                Price           = "82000" 
+                Price           = "116000" 
 
                 Durability                      = "400" />
 
@@ -411,7 +411,7 @@ $Id: Rockets.xml,v 1.68 2005/11/28 07:43:57 anton Exp $
 		MaxCharges = "4"
 
 		CanBeUsedInAutogenerating  =  "1"
-		Price		= "3000" 
+		Price		= "9000" 
 
 		Durability			= "400" />
 
@@ -442,7 +442,7 @@ $Id: Rockets.xml,v 1.68 2005/11/28 07:43:57 anton Exp $
 		WithShellsPoolLimit     = "true"
                 
                 CanBeUsedInAutogenerating  =  "0"
-		Price           = "9400" 
+		Price           = "16400" 
         />
 
 	<Prototype
@@ -561,7 +561,7 @@ $Id: Rockets.xml,v 1.68 2005/11/28 07:43:57 anton Exp $
                 Decal                           = "DC_ROKET"
 
      		ApplyAffixes	= "false"
-                Price           = "35200"
+                Price           = "46200"
                 ResourceType            = "SIDE_GUN">   
 
                 <Part id = "BASKET_SIDE_GUN_L"  Prototype = "mrak01L" /> 
