@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+
+<Prototypes>
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownMidgard']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="1.5"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownMidgard']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="1.5"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownMidgard']"
+        _SelectorKeys="Resource"
+        Resource="GADGET"
+        Coeff="0.7"
+        Dispersion="5.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownPorto']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="0.9"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownPorto']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="0.8"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownOlme']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="1.3"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownOlme']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="1.4"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownOlme']"
+        _SelectorKeys="Resource"
+        Resource="GUN"
+        Coeff="1.8"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownPesht']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="0.9"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownPesht']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="1.4"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownPesht']"
+        _SelectorKeys="Resource"
+        Resource="GUN"
+        Coeff="1.2"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownAsgard']"
+        _SelectorKeys="Resource"
+        Resource="GADGET"
+        Coeff="0.8"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownAsgard']"
+        _SelectorKeys="Resource"
+        Resource="GUN"
+        Coeff="1.4"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownMinin']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="0.8"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownMinin']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="0.9"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownMinin']"
+        _SelectorKeys="Resource"
+        Resource="GUN"
+        Coeff="1.4"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownSel']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="1.3"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownSel']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="1.3"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownSel']"
+        _SelectorKeys="Resource"
+        Resource="GUN"
+        Coeff="0.9"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownSel']"
+        _SelectorKeys="Resource"
+        Resource="GADGET"
+        Coeff="0.7"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownGelvetcia']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="0.8"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownGelvetcia']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="0.9"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownGelvetcia']"
+        _SelectorKeys="Resource"
+        Resource="GUN"
+        Coeff="1.3"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownGelvetcia']"
+        _SelectorKeys="Resource"
+        Resource="GADGET"
+        Coeff="1.5"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownTuzz']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="1.2"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownTuzz']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="1.4"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownTuzz']"
+        _SelectorKeys="Resource"
+        Resource="GUN"
+        Coeff="0.8"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownTuzz']"
+        _SelectorKeys="Resource"
+        Resource="GADGET"
+        Coeff="0.9"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownMarezzia']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="1.2"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownMarezzia']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="1.5"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownMarezzia']"
+        _SelectorKeys="Resource"
+        Resource="GUN"
+        Coeff="1.4"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownMarezzia']"
+        _SelectorKeys="Resource"
+        Resource="GADGET"
+        Coeff="1.2"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownToskana']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="0.9"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownToskana']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="0.9"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownToskana']"
+        _SelectorKeys="Resource"
+        Resource="GUN"
+        Coeff="0.8"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownToskana']"
+        _SelectorKeys="Resource"
+        Resource="GADGET"
+        Coeff="1.1"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownUluk']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="1.0"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownUluk']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="1.1"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownUluk']"
+        _SelectorKeys="Resource"
+        Resource="GUN"
+        Coeff="1.3"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownUluk']"
+        _SelectorKeys="Resource"
+        Resource="GADGET"
+        Coeff="1.2"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownFist']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="0.9"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownFist']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="0.9"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownFist']"
+        _SelectorKeys="Resource"
+        Resource="GUN"
+        Coeff="1.3"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownFist']"
+        _SelectorKeys="Resource"
+        Resource="GADGET"
+        Coeff="1.2"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownSet']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="1.2"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownSet']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="0.9"
+        Dispersion="10.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownSet']"
+        _SelectorKeys="Resource"
+        Resource="GUN"
+        Coeff="1.1"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownSet']"
+        _SelectorKeys="Resource"
+        Resource="GADGET"
+        Coeff="1.1"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownKef']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="1.5"
+        Dispersion="20.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownKef']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="1.5"
+        Dispersion="20.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownKef']"
+        _SelectorKeys="Resource"
+        Resource="GADGET"
+        Coeff="1.5"
+        Dispersion="25.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownKef']"
+        _SelectorKeys="Resource"
+        Resource="GUN"
+        Coeff="1.6"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownGadad']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="1.5"
+        Dispersion="20.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownGadad']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="1.5"
+        Dispersion="20.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownGadad']"
+        _SelectorKeys="Resource"
+        Resource="GADGET"
+        Coeff="1.5"
+        Dispersion="25.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownGadad']"
+        _SelectorKeys="Resource"
+        Resource="GUN"
+        Coeff="1.6"
+        Dispersion="15.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownKazif']"
+        _SelectorKeys="Resource"
+        Resource="CABIN"
+        Coeff="1.5"
+        Dispersion="20.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownKazif']"
+        _SelectorKeys="Resource"
+        Resource="BASKET"
+        Coeff="1.5"
+        Dispersion="20.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownKazif']"
+        _SelectorKeys="Resource"
+        Resource="GADGET"
+        Coeff="1.5"
+        Dispersion="25.0"/>
+
+    <ResourceCoeff
+        _Action="Add"
+        _ParentXPath="Folder[@Name='BigTowns']/Prototype[@Name='TownKazif']"
+        _SelectorKeys="Resource"
+        Resource="GUN"
+        Coeff="1.6"
+        Dispersion="15.0"/>
+</Prototypes>

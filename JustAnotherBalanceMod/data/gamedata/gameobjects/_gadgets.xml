@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+
+<Prototypes>
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="cooling_system_guns"
+        Price="5930"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="cooling_system_energy"
+        Price="7179"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="cooling_system_explosion"
+        Price="5380"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="firing_rate_guns"
+        Price="3776"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="firing_rate_energy"
+        Price="4790"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="grouping_angle_guns"
+        Price="4100"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="add_damage_guns"
+        Price="6828"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="add_damage_energy"
+        Price="8142"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="add_damage_explosion"
+        Price="3587"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="firing_range_guns"
+        Price="2650"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="cooling_system_guns2"
+        Price="23200"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="cooling_system_energy2"
+        Price="26300"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="cooling_system_explosion2"
+        Price="25500"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="firing_rate_guns2"
+        Price="20250"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="firing_rate_energy2"
+        Price="30200"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="grouping_angle_guns2"
+        Price="26700"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="add_damage_guns2"
+        Price="29300"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="add_damage_energy2"
+        Price="28690"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="add_damage_explosion2"
+        Price="27470"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="cooling_system_guns_and_firing_rate_guns"
+        Price="82160"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="cooling_system_energy_and_firing_rate_energy"
+        Price="94250"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="cooling_system_explosion_and_firing_rate_explosion"
+        Price="87477"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="firing_rate_guns_and_add_damage_guns"
+        Price="96850"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="firing_rate_energy_and_add_damage_energy"
+        Price="92560"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="firing_rate_explosion_and_add_damage_explosion"
+        Price="87997"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="add_damage_guns_and_grouping_angle_guns"
+        Price="88790"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="add_damage_energy_and_firing_rate_energy"
+        Price="82550"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="add_damage_explosion_firing_rate_explosion"
+        Price="84630"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="additional_fuel_tank"
+        Price="1950"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="additional_torque"
+        Price="5400"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="additional_durability"
+        Price="6900"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="additional_stability"
+        Price="5140"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="additional_fuel_tank2"
+        Price="22030"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="additional_torque2"
+        Price="28630"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="additional_durability2"
+        Price="34620"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="add_speed_and_torque"
+        Price="113000"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="add_stability_and_speed"
+        Price="108430"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="add_torque_and_stability"
+        Price="99100"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="additional_fuel_tank2_add_damage_guns"
+        Price="82160"/>
+</Prototypes>

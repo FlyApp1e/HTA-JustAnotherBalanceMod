@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+
+<Prototypes>
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="dynamicQuestDestroy"
+        TargetSchwarzPart="0.45"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="dynamicQuestReach"
+        PlayerSchwarzPart="0.08"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="dynamicQuestConvoy"
+        PlayerSchwarzPart="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="dynamicQuestHunt"
+        PlayerSchwarzPart="0.012"/>
+</Prototypes>

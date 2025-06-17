@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+
+<Prototypes>
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="bugCab02"
+        Price="1200"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="bugCab03"
+        Price="2400"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="molokovozCab01"
+        Price="4550"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="molokovozCab02"
+        Price="9100"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="molokovozCab03"
+        Price="15600"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="uralCab01"
+        Price="25200"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="uralCab02"
+        Price="35000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="uralCab03"
+        Price="70000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="uralCab04"
+        Price="49000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="uralCab05"
+        Price="98000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="belazCab01"
+        Price="127500"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="belazCab02"
+        Price="150000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="belazCab03"
+        Price="172500"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="belazCab04"
+        Price="210000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="belazCab05"
+        Price="240000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="mirotvorecCab01"
+        Price="288000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="mirotvorecCab02"
+        Price="328000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="mirotvorecCab03"
+        Price="360000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="mirotvorecCab04"
+        Price="400000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="mirotvorecCab05"
+        Price="480000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="bugCargo02"
+        Price="1200"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="bugCargo03"
+        Price="2050"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="molokovozCargo01"
+        Price="3900"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="molokovozCargo02"
+        Price="10400"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="molokovozCargo03"
+        Price="14300"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="uralCargo01"
+        Price="18200"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="uralCargo02"
+        Price="63000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="uralCargo03"
+        Price="42000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="uralCargo04"
+        Price="42000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="uralCargo05"
+        Price="81200"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="e_uralCargo01"
+        Price="18200"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="e_uralCargo02"
+        Price="63000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="e_uralCargo03"
+        Price="42000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="e_uralCargo04"
+        Price="42000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="e_uralCargo05"
+        Price="81200"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="belazCargo01"
+        Price="85000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="belazCargo02"
+        Price="100000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="belazCargo03"
+        Price="120000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="belazCargo04"
+        Price="140000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="belazCargo05"
+        Price="160000"/> 
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="mirotvorecCargo01"
+        Price="288000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="mirotvorecCargo02"
+        Price="328000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="mirotvorecCargo03"
+        Price="352000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="mirotvorecCargo04"
+        Price="400000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="mirotvorecCargo05"
+        Price="448000"/>
+</Prototypes>

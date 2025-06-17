@@ -1,0 +1,8 @@
+- commands: compatibility_options\data_dt\gamedata\gameobjects\_DTguns.xml
+  targets: gamedata\gameobjects\DTguns.xml
+
+- commands: compatibility_options\data_dt\gamedata\gameobjects\_DTparts.xml
+  targets: gamedata\gameobjects\DTparts.xml
+
+
+      

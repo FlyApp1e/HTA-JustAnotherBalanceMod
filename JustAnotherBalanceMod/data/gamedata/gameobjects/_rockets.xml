@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+
+<Prototypes>
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="smokeScreenLocation"
+        Price="250"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="engineOilLocation"
+        Price="400"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="nailLocation"
+        Price="200"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="turbo"
+        Price="100"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="smallBlastWave_rainmetal"
+        Radius="15.0"
+        WaveForceIntensity="14.0"
+        WaveDamageIntensity="14.0"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="hurricane01"
+        Price="18870"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="rocketLauncher"
+        Price="116000"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="hunterLauncher"
+        Price="7800"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="big_swingfire01"
+        Price="16400"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="mrakSideGun"
+        Price="46200"/>
+</Prototypes>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+
+<Properties>
+    <Repair
+        _Action="Modify"
+        _Selector="Repair"
+        HealthUnitPrice="1.5"/>
+
+    <Articles
+        _Action="Modify"
+        _Selector="Articles"
+        ProbabilityToDropArticlesFromDeadVehicles="0.60"
+        ProbabilityToDropGunsFromDeadVehicles="0.45"/>
+</Properties>

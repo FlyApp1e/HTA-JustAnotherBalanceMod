@@ -1,0 +1,77 @@
+# техническая информация о моде
+name: jabm # техническое имя мода (должно быть уникально для вашего мода, не должно быть похоже на существующие имена модов)
+language: eng # язык мода и его описания
+installment: exmachina # часть игры для которой предназначен мод
+
+# необходимая человекочитаемая информация
+display_name: JustAnotherBalanceMod (JABM)
+version: "1.0" # простая версия в формате 1.0 или 1.0.0
+build: "250617" # 22 - год, 12 - месяц, 30 - день (дата выхода версии мода)
+description: |
+  A modification that rebalances in-game prices, designed to prevent players from accumulating multi-million capital by the mid-game.
+
+  Changes affect the prices of:
+    - Weapons
+    - Gadgets
+    - Сabins
+    - Baskets
+    - Wares
+
+  Added varying (both positive and negative) price modifiers for the above items in big cities.
+  Adjusted enemy loot drop quantities.
+  Changed loot types in certain spawn zones.
+  
+authors: FlyApple # автор или авторы мода
+ 
+# опциональная человекочитаемая информация 
+# link: https://deuswiki.com/w/SuperWeatherMod # домашняя страничка мода
+tags: [balance] 
+logo: BalanceModLogo.png
+# информация о процессе инсталляции
+patcher_version_requirement: ">=3.0" # мод требует для установки версию ComMod больше или равную 1.13
+
+optional_content:
+  - name: isl
+    data_dirs:
+      - "data_isl"
+    merge_instructions: 
+      - "merge_instructions_data_isl.yaml"
+    display_name: Compatibility with ISL
+    default_option: skip
+    description: |
+      Compatibility with ISL
+  - name: dt
+    data_dirs:
+      - "data_dt"
+    merge_instructions: 
+      - "merge_instructions_data_dt.yaml"
+    display_name: Compatibility with Different Things
+    default_option: skip
+    description: |
+      Compatibility with Different Things  
+  - name: em
+    data_dirs:
+      - "data_em"
+    merge_instructions: 
+      - "merge_instructions_data_em.yaml"
+    display_name: Compatibility with Extra Machines
+    default_option: skip
+    description: |
+      Compatibility with Extra Machines        
+
+
+prerequisites: 
+  - name: community_remaster
+    versions:
+      - ">=1.14"
+
+strict_requirements: false      
+
+data_dirs:
+  - "data"
+  
+
+merge_instructions:
+  - "merge_instructions_data.yaml"
+  
+

@@ -1,0 +1,38 @@
+- commands: data\gamedata\_globalproperties.xml
+  targets: gamedata\globalproperties.xml
+
+- commands: data\gamedata\gameobjects\_bigguns.xml
+  targets: gamedata\gameobjects\bigguns.xml
+
+- commands: data\gamedata\gameobjects\_gadgets.xml
+  targets: gamedata\gameobjects\gadgets.xml  
+
+- commands: data\gamedata\gameobjects\_giantguns.xml
+  targets: gamedata\gameobjects\giantguns.xml  
+
+- commands: data\gamedata\gameobjects\_infection.xml
+  targets: gamedata\gameobjects\infection.xml    
+
+- commands: data\gamedata\gameobjects\_miscellaneous.xml
+  targets: gamedata\gameobjects\miscellaneous.xml    
+
+- commands: data\gamedata\gameobjects\_plasma.xml
+  targets: gamedata\gameobjects\plasma.xml    
+
+- commands: data\gamedata\gameobjects\_rockets.xml
+  targets: gamedata\gameobjects\rockets.xml           
+
+- commands: data\gamedata\gameobjects\_sideguns.xml
+  targets: gamedata\gameobjects\sideguns.xml   
+
+- commands: data\gamedata\gameobjects\_smallguns.xml
+  targets: gamedata\gameobjects\smallguns.xml   
+
+- commands: data\gamedata\gameobjects\_towns.xml
+  targets: gamedata\gameobjects\towns.xml   
+
+- commands: data\gamedata\gameobjects\_vehicleparts.xml
+  targets: gamedata\gameobjects\vehicleparts.xml   
+
+- commands: data\gamedata\gameobjects\_wares.xml
+  targets: gamedata\gameobjects\wares.xml              

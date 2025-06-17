@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+
+<Prototypes>
+   <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="FelixsGangSmallGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="FelixsGangGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="r1m2BanditsGangGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="r1m3BanditsGangGenerator"
+        partOfSchwartzForCabin="0.25"
+        partOfSchwartzForBasket="0.25"
+        partOfSchwartzForGuns="0.40"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="r1m3BrodiagaGangGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="r4m1Razboyniki"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="OracleDefGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="ARGangGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="SNGGangGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="r1m4_TraidersGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="r1m4_FishersGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="GadadGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="KazifGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="KefGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="r4_BanditesGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="r4m2_MilitaryGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+    
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="r3m1_RobotGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.05"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="RaboynikGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="DruidGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="MechDruidGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="Robots32Generator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.05"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="OracleDefendersGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="r3_BanditesGenerator"
+        partOfSchwartzForCabin="0.20"
+        partOfSchwartzForBasket="0.20"
+        partOfSchwartzForWares="0.10"/>    
+
+    <Description
+        _Action="AddOrReplace"
+        _ParentXPath="Prototype[@Name='r3m1_RobotGenerator']"
+        _SelectorKeys="*"
+        VehiclesPrototypes="RobotTron"
+        WaresPrototypes="scrap_metal"
+        GunAffixGeneratorPrototype="townaffixGenerator"
+        PartOfSchwartz="0.35"/>
+
+    <Description
+        _Action="AddOrReplace"
+        _ParentXPath="Prototype[@Name='r3m1_RobotGenerator']"
+        _SelectorKeys="*"
+        VehiclesPrototypes="RobotTron"
+        WaresPrototypes="scrap_metal"
+        GunAffixGeneratorPrototype="villageaffixGenerator"
+        PartOfSchwartz="0.3"/>
+
+    <Description
+        _Action="AddOrReplace"
+        _ParentXPath="Prototype[@Name='r3m1_RobotGenerator']"
+        _SelectorKeys="*"
+        VehiclesPrototypes="RobotBobot02"
+        WaresPrototypes="scrap_metal"
+        GunAffixGeneratorPrototype="villageaffixGenerator"
+        PartOfSchwartz="0.3"/>
+
+    <Description
+        _Action="Remove"
+        _ParentXPath="Prototype[@Name='r3m1_RobotGenerator']"
+        _SelectorKeys="*"
+        VehiclesPrototypes="RobotTron"
+        WaresPrototypes="tobacco bottle"
+        GunAffixGeneratorPrototype="townaffixGenerator"
+        PartOfSchwartz="0.35"/>
+
+    <Description
+        _Action="Remove"
+        _ParentXPath="Prototype[@Name='r3m1_RobotGenerator']"
+        _SelectorKeys="*"
+        VehiclesPrototypes="RobotTron"
+        WaresPrototypes="tobacco bottle"
+        GunAffixGeneratorPrototype="villageaffixGenerator"
+        PartOfSchwartz="0.3"/>
+
+    <Description
+        _Action="Remove"
+        _ParentXPath="Prototype[@Name='r3m1_RobotGenerator']"
+        _SelectorKeys="*"
+        VehiclesPrototypes="RobotBobot02"
+        WaresPrototypes="tobacco bottle"
+        GunAffixGeneratorPrototype="villageaffixGenerator"
+        PartOfSchwartz="0.3"/>
+
+    <Description
+        _Action="AddOrReplace"
+        _ParentXPath="Prototype[@Name='Robots32Generator']"
+        _SelectorKeys="*"
+        VehiclesPrototypes="RobotBobot01"
+        WaresPrototypes="scrap_metal"
+        GunAffixGeneratorPrototype="townaffixGenerator"
+        PartOfSchwartz="0.35"/>
+
+    <Description
+        _Action="Remove"
+        _ParentXPath="Prototype[@Name='Robots32Generator']"
+        _SelectorKeys="*"
+        VehiclesPrototypes="RobotBobot01"
+        WaresPrototypes="bottle tobacco"
+        GunAffixGeneratorPrototype="townaffixGenerator"
+        PartOfSchwartz="0.35"/>    
+</Prototypes>

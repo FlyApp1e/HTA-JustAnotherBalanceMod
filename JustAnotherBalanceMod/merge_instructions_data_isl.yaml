@@ -1,0 +1,10 @@
+- commands: compatibility_options\data_isl\gamedata\gameobjects\_towns.xml
+  targets: gamedata\gameobjects\towns.xml
+
+- commands: compatibility_options\data_isl\gamedata\gameobjects\_infection.xml
+  targets: gamedata\gameobjects\infection.xml
+
+- commands: compatibility_options\data_isl\gamedata\gameobjects\_gadgets.xml
+  targets: gamedata\gameobjects\gadgets.xml  
+
+      
