@@ -2994,7 +2994,7 @@ $Id: VehicleParts.xml,v 1.80 2005/11/28 07:43:57 anton Exp $
 			Mass				= "100.0" 
 			BlowEffect	= "ET_PS_VEH_PART_BLOW_BIG_CARGO"
 
-			Price				= "85000"
+			Price				= "119000"
 			RepairCoef			= "0.4"
 
 			LoadPoints			= "LP_BIG01" >
@@ -3033,7 +3033,7 @@ $Id: VehicleParts.xml,v 1.80 2005/11/28 07:43:57 anton Exp $
 			DurCoeffsForDamageTypes		= "10 12 3"
 			BlowEffect	= "ET_PS_VEH_PART_BLOW_BIG_CARGO"
 
-			Price				= "100000"
+			Price				= "140000"
 			RepairCoef			= "0.4"
 
 			LoadPoints			= "LP_BIG01 NO_LP" >
@@ -3078,7 +3078,7 @@ $Id: VehicleParts.xml,v 1.80 2005/11/28 07:43:57 anton Exp $
 			DurCoeffsForDamageTypes		= "11 10 5"
 			BlowEffect	= "ET_PS_VEH_PART_BLOW_BIG_CARGO"
 
-			Price				= "120000"
+			Price				= "168000"
 			RepairCoef			= "0.4"
 
 			LoadPoints			= "LP_BIG01 LP_BIG02 NO_LP" >
@@ -3122,7 +3122,7 @@ $Id: VehicleParts.xml,v 1.80 2005/11/28 07:43:57 anton Exp $
 
 			DurCoeffsForDamageTypes		= "13 10 8"
 
-			Price				= "140000"
+			Price				= "196000"
 			RepairCoef			= "0.4"
 
 			LoadPoints			= "LP_GIANT01 LP_GIANT02" >
@@ -3162,7 +3162,7 @@ $Id: VehicleParts.xml,v 1.80 2005/11/28 07:43:57 anton Exp $
 			DurCoeffsForDamageTypes		= "13 10 12"
 			BlowEffect	= "ET_PS_VEH_PART_BLOW_BIG_CARGO"
 
-			Price				= "160000"
+			Price				= "224000"
 			RepairCoef			= "0.4"
 
 			LoadPoints			= "LP_BIG01 LP_SIDE01L LP_SIDE01R" >
