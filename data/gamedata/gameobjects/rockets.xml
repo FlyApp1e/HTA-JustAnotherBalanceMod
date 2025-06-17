@@ -13,7 +13,7 @@ $Id: Rockets.xml,v 1.68 2005/11/28 07:43:57 anton Exp $
                 LookRadius              = "10.0"
                 TTL                     = "10.0"
 				ActivateTime			= "0.5"
-		Price			= "25"
+		Price			= "250"
 
                 Effect                  = "ET_PS_SPECIAL01_FIRE"
                 CanBeUsedInAutogenerating  =  "0"
@@ -26,7 +26,7 @@ $Id: Rockets.xml,v 1.68 2005/11/28 07:43:57 anton Exp $
                 LookRadius              = "5.0"
                 TTL                     = "10.0"
 				ActivateTime			= "0.2"
-		Price			= "40"
+		Price			= "400"
                 Effect                  = "ET_PS_SPECIAL03_FIRE"
                 CanBeUsedInAutogenerating  =  "0"
         />
@@ -38,14 +38,14 @@ $Id: Rockets.xml,v 1.68 2005/11/28 07:43:57 anton Exp $
                 LookRadius              = "10.0"
                 TTL                     = "10.0"
 				ActivateTime			= "0.5"
-		Price			= "20"
+		Price			= "200"
                 Effect                  = "ET_PS_SPECIAL02_FIRE"
                 CanBeUsedInAutogenerating  =  "0"
         />
         <Prototype
                 Class                   = "BlastWave"
                 Name                    = "turbo"
-		Price			= "10"                
+		Price			= "100"                
                 Radius                  = "30.0"
                 Effect                  = "ET_PS_AIRWAVE1"
                 WaveForceIntensity      = "1.0"
@@ -121,10 +121,10 @@ $Id: Rockets.xml,v 1.68 2005/11/28 07:43:57 anton Exp $
                 Name                    = "smallBlastWave_rainmetal"
                 Effect                  = "ET_PS_AIRWAVE2"
                 
-                Radius                  = "30.0"
+                Radius                  = "15.0"
 
-                WaveForceIntensity      = "18.0"
-                WaveDamageIntensity     = "18.0"
+                WaveForceIntensity      = "14.0"
+                WaveDamageIntensity     = "14.0"
         />
 
         <Prototype
@@ -411,7 +411,7 @@ $Id: Rockets.xml,v 1.68 2005/11/28 07:43:57 anton Exp $
 		MaxCharges = "4"
 
 		CanBeUsedInAutogenerating  =  "1"
-		Price		= "9000" 
+		Price		= "7800" 
 
 		Durability			= "400" />
 

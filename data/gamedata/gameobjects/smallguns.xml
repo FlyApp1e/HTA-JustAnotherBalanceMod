@@ -24,7 +24,7 @@ $Id: SmallGuns.xml,v 1.58 2005/11/28 07:43:57 anton Exp $
 		RecoilForce		= "2"		
 
 		CanBeUsedInAutogenerating  =  "0"
-		Price			= "25000"
+		Price			= "18000"
 		
 		ChargeSize     		= "1"
 		RechargingTime 		= "10"
@@ -34,7 +34,7 @@ $Id: SmallGuns.xml,v 1.58 2005/11/28 07:43:57 anton Exp $
 		ShellsPoolSize		= "25"
 		WithShellsPoolLimit	= "true"
 		
-		AccelerationValue	= "1.6"
+		AccelerationValue	= "1.8"
 		AccelerationTime	= "5"
 		FiringType		= "Turbo"
 	/>
