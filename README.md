@@ -40,5 +40,10 @@ Changes affect the prices of:
   Added varying (both positive and negative) price modifiers for the above items in big cities.
   Adjusted enemy loot drop quantities.
   Changed loot types in certain spawn zones.
+  
+Compatible with the following mods:
+  - Improved Storyline
+  - ExtraMachines
+  - Different Things
 
   The modification is also compatible with other original game-based mods that do not remove cabins/baskets/weapons/gadgets/goods, cities and villages, or infection zones from the game.
