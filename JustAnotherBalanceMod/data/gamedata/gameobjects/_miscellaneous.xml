@@ -4,12 +4,6 @@
     <Prototype
         _Action="Modify"
         _SelectorKeys="Name"
-        Name="dynamicQuestDestroy"
-        TargetSchwarzPart="0.45"/>
-
-    <Prototype
-        _Action="Modify"
-        _SelectorKeys="Name"
         Name="dynamicQuestReach"
         PlayerSchwarzPart="0.08"/>
 
