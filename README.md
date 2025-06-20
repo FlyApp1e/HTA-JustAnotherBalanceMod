@@ -30,12 +30,12 @@
 
 A modification that rebalances in-game prices, designed to prevent players from accumulating multi-million capital by the mid-game.
 
-  Changes affect the prices of:
-    - Weapons
-    - Gadgets
-    - Сabins
-    - Baskets
-    - Wares
+Changes affect the prices of:
+  - Weapons
+  - Gadgets
+  - Сabins
+  - Baskets
+  - Wares
 
   Added varying (both positive and negative) price modifiers for the above items in big cities.
   Adjusted enemy loot drop quantities.
