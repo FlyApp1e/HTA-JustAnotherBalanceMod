@@ -24,7 +24,7 @@
 
 Модификация также совместима с другими модами на базе оригинальной игры, которые не удаляют из игры кабины/кузова/оружие/гаджеты/товары, города и деревни, а также инфекшн зоны.
 
-Для установки модификации требуется Commod 3.0 и выше.
+Для установки модификации требуется Commod 3.0.6 и выше.
 
 [ENG]
 
@@ -47,3 +47,5 @@ Compatible with the following mods:
   - Different Things
 
   The modification is also compatible with other original game-based mods that do not remove cabins/baskets/weapons/gadgets/goods, cities and villages, or infection zones from the game.
+
+  This mod requires Commod 3.0.6 or later to install.
