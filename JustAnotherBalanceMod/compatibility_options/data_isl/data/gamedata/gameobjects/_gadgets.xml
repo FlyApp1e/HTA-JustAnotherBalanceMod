@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+
+<Prototypes>
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="additional_durability3"
+        Price="133000"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
+        Name="add_stability_and_speed2"
+        Price="196720"/>
+</Prototypes>

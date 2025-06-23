@@ -4,18 +4,24 @@
     <Prototype
         _Action="Modify"
         _SelectorKeys="Name"
+        Name="dynamicQuestDestroy"
+        TargetSchwarzPart="0.30"/>
+
+    <Prototype
+        _Action="Modify"
+        _SelectorKeys="Name"
         Name="dynamicQuestReach"
-        PlayerSchwarzPart="0.08"/>
+        PlayerSchwarzPart="0.02"/>
 
     <Prototype
         _Action="Modify"
         _SelectorKeys="Name"
         Name="dynamicQuestConvoy"
-        PlayerSchwarzPart="0.10"/>
+        PlayerSchwarzPart="0.03"/>
 
     <Prototype
         _Action="Modify"
         _SelectorKeys="Name"
         Name="dynamicQuestHunt"
-        PlayerSchwarzPart="0.012"/>
+        PlayerSchwarzPart="0.011"/>
 </Prototypes>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+
+<Prototypes>
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="bulldogCab01"
+        Price="3565"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="bulldogCab02"
+        Price="11500"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="bulldogCargo01"
+        Price="1495"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="bulldogCargo02"
+        Price="1955"/>
+
+     <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Chassis']"
+        _SelectorKeys="Name"
+        Name="bulldogChassis"
+        RepairCoef="1.0"/>      
+</Prototypes>

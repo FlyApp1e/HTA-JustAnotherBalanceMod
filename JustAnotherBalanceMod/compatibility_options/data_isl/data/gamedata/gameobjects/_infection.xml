@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+
+<Prototypes>
+    <Prototype
+        _Action="AddOrReplace"
+        _SelectorKeys="Name"
+        Name="r5_BanditsGangGenerator"
+        Class="VehiclesGenerator"
+        DesiredCount="1-3"
+        partOfSchwartzForCabin="0.25"
+        partOfSchwartzForBasket="0.25"
+        partOfSchwartzForGuns="0.40"
+        partOfSchwartzForWares="0.10">
+        <Description
+            VehiclesPrototypes="ScoutEnemySpawn ScoutEnemySpawn"
+            WaresPrototypes="bottle tobacco"
+            GunAffixGeneratorPrototype="townaffixGenerator"
+            PartOfSchwartz="0.35"/>
+
+        <Description
+            VehiclesPrototypes="ScoutEnemySpawn Sml2EnemySpawn Sml3EnemySpawn"
+            WaresPrototypes="bottle tobacco"
+            GunAffixGeneratorPrototype="villageaffixGenerator"
+            PartOfSchwartz="0.3"/>
+
+        <Description
+            VehiclesPrototypes="Sml1EnemySpawn Sml2EnemySpawn Sml3EnemySpawn Sml4EnemySpawn"
+            WaresPrototypes="bottle tobacco"
+            GunAffixGeneratorPrototype="villageaffixGenerator"
+            PartOfSchwartz="0.3"/>
+
+        <Description
+            VehiclesPrototypes="BugForSale ScoutEnemySpawn"
+            WaresPrototypes="bottle tobacco"
+            GunAffixGeneratorPrototype="villageaffixGenerator"
+            PartOfSchwartz="0.3"/>
+
+        <Description
+            VehiclesPrototypes="UralForSale HunterEnemySpawn ScoutEnemySpawn"
+            WaresPrototypes="tobacco book"
+            GunAffixGeneratorPrototype="villageaffixGenerator"
+            PartOfSchwartz="0.3"/>
+
+        <Description
+            VehiclesPrototypes="UralForSale FighterEnemySpawn ScoutEnemySpawn"
+            WaresPrototypes="tobacco book"
+            GunAffixGeneratorPrototype="villageaffixGenerator"
+            PartOfSchwartz="0.3"/>
+
+        <Description
+            VehiclesPrototypes="MolokovozForSale FighterEnemySpawn ScoutEnemySpawn"
+            WaresPrototypes="tobacco book"
+            GunAffixGeneratorPrototype="villageaffixGenerator"
+            PartOfSchwartz="0.3"/>
+
+        <Description
+            VehiclesPrototypes="MolokovozForSale HunterEnemySpawn ScoutEnemySpawn"
+            WaresPrototypes="tobacco book"
+            GunAffixGeneratorPrototype="villageaffixGenerator"
+            PartOfSchwartz="0.3"/>
+    </Prototype>
+</Prototypes>

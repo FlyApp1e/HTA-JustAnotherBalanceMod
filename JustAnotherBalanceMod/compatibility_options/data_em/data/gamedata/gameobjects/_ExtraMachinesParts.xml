@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+
+<Prototypes>
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="ChevC10Cab02"
+        Price="1210"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="ChevC10Cab03"
+        Price="1650"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="TractorCab01"
+        Price="3950"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="TractorCab02"
+        Price="6000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="TractorCab03"
+        Price="12000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="TornadoCab01"
+        Price="2200"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="TornadoCab02"
+        Price="4050"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="TornadoCab03"
+        Price="6080"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="M35Cab01"
+        Price="23400"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="M35Cab02"
+        Price="32500"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="M35Cab03"
+        Price="65000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Cabins']"
+        _SelectorKeys="Name"
+        Name="M35Cab04"
+        Price="40000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="ChevC10Cargo02"
+        Price="1100"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="ChevC10Cargo03"
+        Price="2200"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="ChevC10Cargo04"
+        Price="2750"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="TractorCargo01"
+        Price="3450"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="TractorCargo02"
+        Price="9190"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="TractorCargo03"
+        Price="13200"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="TornadoCargo01"
+        Price="770"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="TornadoCargo02"
+        Price="1650"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="TornadoCargo03"
+        Price="3300"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="M35Cargo01"
+        Price="16900"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="M35Cargo03"
+        Price="31000"/>
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Baskets']"
+        _SelectorKeys="Name"
+        Name="M35Cargo01_Enemy"
+        Price="16950"/>
+
+
+
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Chassis']"
+        _SelectorKeys="Name"
+        Name="ChevC10Chassis"
+        RepairCoef="0.2"/>  
+        
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Chassis']"
+        _SelectorKeys="Name"
+        Name="TornadoChassis"
+        RepairCoef="0.9"/>  
+        
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Chassis']"
+        _SelectorKeys="Name"
+        Name="TractorChassis"
+        RepairCoef="1.2"/>     
+                 
+    <Prototype
+        _Action="Modify"
+        _ParentXPath="Folder[@Name='Chassis']"
+        _SelectorKeys="Name"
+        Name="M35Chassis"
+        RepairCoef="2.8"/>       
+</Prototypes>

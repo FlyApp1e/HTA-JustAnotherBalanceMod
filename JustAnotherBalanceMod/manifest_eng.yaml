@@ -5,8 +5,8 @@ installment: exmachina # часть игры для которой предна�
 
 # необходимая человекочитаемая информация
 display_name: JustAnotherBalanceMod (JABM)
-version: "1.0" # простая версия в формате 1.0 или 1.0.0
-build: "250617" # 22 - год, 12 - месяц, 30 - день (дата выхода версии мода)
+version: "1.1.1" # простая версия в формате 1.0 или 1.0.0
+build: "250623" # 22 - год, 12 - месяц, 30 - день (дата выхода версии мода)
 description: |
   A modification that rebalances in-game prices, designed to prevent players from accumulating multi-million capital by the mid-game.
 
@@ -28,12 +28,12 @@ authors: FlyApple # автор или авторы мода
 tags: [balance] 
 logo: BalanceModLogo.png
 # информация о процессе инсталляции
-patcher_version_requirement: ">=3.0" # мод требует для установки версию ComMod больше или равную 1.13
+patcher_version_requirement: ">=3.0.6" # мод требует для установки версию ComMod больше или равную 1.13
 
 optional_content:
   - name: isl
     data_dirs:
-      - "data_isl"
+      - "compatibility_options/data_isl"
     merge_instructions: 
       - "merge_instructions_data_isl.yaml"
     display_name: Compatibility with ISL
@@ -42,7 +42,7 @@ optional_content:
       Compatibility with ISL
   - name: dt
     data_dirs:
-      - "data_dt"
+      - "compatibility_options/data_dt"
     merge_instructions: 
       - "merge_instructions_data_dt.yaml"
     display_name: Compatibility with Different Things
@@ -51,7 +51,7 @@ optional_content:
       Compatibility with Different Things  
   - name: em
     data_dirs:
-      - "data_em"
+      - "compatibility_options/data_em"
     merge_instructions: 
       - "merge_instructions_data_em.yaml"
     display_name: Compatibility with Extra Machines

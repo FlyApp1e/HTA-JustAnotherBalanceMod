@@ -1,2 +1,2 @@
-- commands: compatibility_options\data_em\gamedata\gameobjects\_ExtraMachinesParts.xml
+- commands: compatibility_options\data_em\data\gamedata\gameobjects\_ExtraMachinesParts.xml
   targets: gamedata\gameobjects\ExtraMachinesParts.xml
