@@ -315,40 +315,4 @@
         _SelectorKeys="Name"
         Name="mirotvorecCargo05"
         Price="448000"/>
-
-
-    <Prototype
-        _Action="Modify"
-        _ParentXPath="Folder[@Name='Chassis']"
-        _SelectorKeys="Name"
-        Name="bugChassis"
-        RepairCoef="0.5"/>  
-        
-    <Prototype
-        _Action="Modify"
-        _ParentXPath="Folder[@Name='Chassis']"
-        _SelectorKeys="Name"
-        Name="molokovozChassis"
-        RepairCoef="1.1"/>  
-        
-    <Prototype
-        _Action="Modify"
-        _ParentXPath="Folder[@Name='Chassis']"
-        _SelectorKeys="Name"
-        Name="uralChassis"
-        RepairCoef="4.0"/>  
-        
-    <Prototype
-        _Action="Modify"
-        _ParentXPath="Folder[@Name='Chassis']"
-        _SelectorKeys="Name"
-        Name="belazChassis"
-        RepairCoef="7.0"/>     
-                 
-    <Prototype
-        _Action="Modify"
-        _ParentXPath="Folder[@Name='Chassis']"
-        _SelectorKeys="Name"
-        Name="mirotvorecChassis"
-        RepairCoef="12.0"/>      
 </Prototypes>

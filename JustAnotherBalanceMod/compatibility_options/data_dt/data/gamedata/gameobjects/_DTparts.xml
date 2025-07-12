@@ -28,11 +28,4 @@
         _SelectorKeys="Name"
         Name="bulldogCargo02"
         Price="1955"/>
-
-     <Prototype
-        _Action="Modify"
-        _ParentXPath="Folder[@Name='Chassis']"
-        _SelectorKeys="Name"
-        Name="bulldogChassis"
-        RepairCoef="1.0"/>      
 </Prototypes>

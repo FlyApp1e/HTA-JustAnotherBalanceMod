@@ -168,34 +168,4 @@
         _SelectorKeys="Name"
         Name="M35Cargo01_Enemy"
         Price="16950"/>
-
-
-
-    <Prototype
-        _Action="Modify"
-        _ParentXPath="Folder[@Name='Chassis']"
-        _SelectorKeys="Name"
-        Name="ChevC10Chassis"
-        RepairCoef="0.2"/>  
-        
-    <Prototype
-        _Action="Modify"
-        _ParentXPath="Folder[@Name='Chassis']"
-        _SelectorKeys="Name"
-        Name="TornadoChassis"
-        RepairCoef="0.9"/>  
-        
-    <Prototype
-        _Action="Modify"
-        _ParentXPath="Folder[@Name='Chassis']"
-        _SelectorKeys="Name"
-        Name="TractorChassis"
-        RepairCoef="1.2"/>     
-                 
-    <Prototype
-        _Action="Modify"
-        _ParentXPath="Folder[@Name='Chassis']"
-        _SelectorKeys="Name"
-        Name="M35Chassis"
-        RepairCoef="2.8"/>       
 </Prototypes>

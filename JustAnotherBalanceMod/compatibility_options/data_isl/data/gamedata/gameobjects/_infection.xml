@@ -7,10 +7,10 @@
         Name="r5_BanditsGangGenerator"
         Class="VehiclesGenerator"
         DesiredCount="1-3"
-        partOfSchwartzForCabin="0.25"
-        partOfSchwartzForBasket="0.25"
-        partOfSchwartzForGuns="0.40"
-        partOfSchwartzForWares="0.10">
+        partOfSchwartzForCabin="0.30"
+        partOfSchwartzForBasket="0.30"
+        partOfSchwartzForGuns="0.35"
+        partOfSchwartzForWares="0.05">
         <Description
             VehiclesPrototypes="ScoutEnemySpawn ScoutEnemySpawn"
             WaresPrototypes="bottle tobacco"

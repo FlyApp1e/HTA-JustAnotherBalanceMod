@@ -5,8 +5,8 @@ installment: exmachina # часть игры для которой предна�
 
 # необходимая человекочитаемая информация
 display_name: JustAnotherBalanceMod (JABM)
-version: "1.1.1" # простая версия в формате 1.0 или 1.0.0
-build: "250623" # 22 - год, 12 - месяц, 30 - день (дата выхода версии мода)
+version: "1.0.2" # простая версия в формате 1.0 или 1.0.0
+build: "250712" # 22 - год, 12 - месяц, 30 - день (дата выхода версии мода)
 description: |
   A modification that rebalances in-game prices, designed to prevent players from accumulating multi-million capital by the mid-game.
 
